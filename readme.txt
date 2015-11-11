@@ -1,1 +1,1 @@
-git is a useful software: wonderful
+git is useful 
